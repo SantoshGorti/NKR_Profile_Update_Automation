@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-11-13T09:58:10.125479",
+    "status": "FAILURE",
+    "headline": null,
+    "verification_result": false,
+    "error_message": "Login failed",
+    "screenshot_path": "/Users/santoshgorti/Documents/NKR/screenshots/execution_failure_20261113_095809.png"
+  },
+  {
+    "timestamp": "2026-11-13T10:27:59.289760",
+    "status": "FAILURE",
+    "headline": null,
+    "verification_result": false,
+    "error_message": "Login failed",
+    "screenshot_path": "/Users/santoshgorti/Documents/NKR/screenshots/execution_failure_20261113_102759.png"
+  },
+  {
+    "timestamp": "2026-11-13T10:34:34.553978",
+    "status": "FAILURE",
+    "headline": "Cloud Infrastructure Automation Specialist | AWS, GCP, Kubernetes, Docker, Terraform | Linux Administration & Deployment Reliability",
+    "verification_result": false,
+    "error_message": "Profile update failed",
+    "screenshot_path": null
+  },
+  {
+    "timestamp": "2026-11-13T10:55:38.108484",
+    "status": "FAILURE",
+    "headline": "Senior DevOps Professional | Cloud Platforms (AWS/GCP), Kubernetes, Docker, Terraform, CI/CD, Jenkins, ArgoCD, Monitoring & Linux Administration",
+    "verification_result": false,
+    "error_message": "Profile update failed",
+    "screenshot_path": "/Users/santoshgorti/Documents/NKR/screenshots/execution_failure_20261113_105538.png"
+  },
+  {
+    "timestamp": "2026-11-13T10:59:34.327312",
+    "status": "FAILURE",
+    "headline": "DevOps Engineer specializing in Cloud Automation | AWS | GCP | Terraform | Kubernetes | Docker | Linux | CI/CD Pipeline Expert",
+    "verification_result": false,
+    "error_message": "Profile update failed",
+    "screenshot_path": "/Users/santoshgorti/Documents/NKR/screenshots/execution_failure_20261113_105934.png"
+  },
+  {
+    "timestamp": "2026-11-13T11:03:57.751891",
+    "status": "FAILURE",
+    "headline": "DevOps Engineer specializing in Cloud Automation | AWS | GCP | Terraform | Kubernetes | Docker | Linux | CI/CD Pipeline Expert",
+    "verification_result": false,
+    "error_message": "Profile update failed",
+    "screenshot_path": "/Users/santoshgorti/Documents/NKR/screenshots/execution_failure_20261113_110357.png"
+  },
+  {
+    "timestamp": "2026-11-13T11:09:44.249286",
+    "status": "PARTIAL_SUCCESS",
+    "headline": "Senior DevOps Professional | Cloud Platforms (AWS/GCP), Kubernetes, Docker, Terraform, CI/CD, Jenkins, ArgoCD, Monitoring & Linux Administration",
+    "verification_result": false,
+    "error_message": null,
+    "screenshot_path": null
+  },
+  {
+    "timestamp": "2026-11-13T11:16:45.339399",
+    "status": "SUCCESS",
+    "headline": "Infrastructure as Code & Container Orchestration Expert | AWS, GCP, Terraform, Kubernetes, Docker, Jenkins, ArgoCD, Linux",
+    "verification_result": true,
+    "error_message": null,
+    "screenshot_path": null
+  },
+  {
+    "timestamp": "2026-11-13T11:18:03.581831",
+    "status": "SUCCESS",
+    "headline": "Cloud Infrastructure Automation Specialist | AWS, GCP, Kubernetes, Docker, Terraform | Linux Administration & Deployment Reliability",
+    "verification_result": true,
+    "error_message": null,
+    "screenshot_path": null
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "reference_headline": "Software Engineer with expertise in AWS, GCP, Terraform, CI/CD, Docker, Kubernetes, Jenkins, ArgoCD and Linux administration, focused on automating cloud infrastructure and enhancing deployment reliability through innovative monitoring solutions.",
+  
+  "variations": [
+    {
+      "id": 1,
+      "headline": "AWS & GCP Cloud Infrastructure Engineer | Terraform | Kubernetes | Docker | CI/CD Automation with Jenkins & ArgoCD"
+    },
+    {
+      "id": 2,
+      "headline": "DevOps Engineer specializing in Cloud Automation | AWS | GCP | Terraform | Kubernetes | Docker | Linux | CI/CD Pipeline Expert"
+    },
+    {
+      "id": 3,
+      "headline": "Cloud Infrastructure Automation Specialist | AWS, GCP, Kubernetes, Docker, Terraform | Linux Administration & Deployment Reliability"
+    },
+    {
+      "id": 4,
+      "headline": "Infrastructure as Code & Container Orchestration Expert | AWS, GCP, Terraform, Kubernetes, Docker, Jenkins, ArgoCD, Linux"
+    },
+    {
+      "id": 5,
+      "headline": "Senior DevOps Professional | Cloud Platforms (AWS/GCP), Kubernetes, Docker, Terraform, CI/CD, Jenkins, ArgoCD, Monitoring & Linux Administration"
+    }
+  ],
+  
+  "metadata": {
+    "total_variations": 5,
+    "last_updated": "2026-11-13",
+    "description": "Professional Resume Headline variations for Naukri profile rotation. Each variation preserves core technical skills while emphasizing different aspects of expertise."
+  }
+}
